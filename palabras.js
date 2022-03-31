@@ -1,0 +1,1 @@
+const words = ['carne', 'pelota', 'carro', 'juguete', 'comer', 'escuela', 'hospital', 'zapato', 'televisor', 'motocicleta', 'casa', 'parque', 'gorra', 'banco'];
